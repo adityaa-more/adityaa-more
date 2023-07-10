@@ -28,7 +28,7 @@
 <a href="https://linkedin.com/in/aditya-more-myprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-more-myprofile" height="30" width="40" /></a>
 <a href="https://codesandbox.com/adityaa.896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="adityaa.896" height="30" width="40" /></a>
 <a href="https://instagram.com/adityaa.896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityaa.896" height="30" width="40" /></a>
-<a href="https://hashnode.com/adityamore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="adityamore" height="30" width="40" /></a>
+<a href="https://hashnode.com/@adityamore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="adityamore" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
