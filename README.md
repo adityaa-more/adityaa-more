@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Java, Basic React**
 
-- 📫 How to reach me **adityamore896@hotmail.com**
+- 📫 How to reach me **adityamore.se@gmail.com**
 
 - ⚡ Fun fact **I think I am witty**
 
