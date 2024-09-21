@@ -11,15 +11,15 @@
 
 - 🔭 I’m currently working on **Spotify Clone**
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 👨‍💻 All of my projects are available at [here](https://aditya-more-my-portfolio.netlify.app/)
 
-- 💬 Ask me about **Java, Basic React**
+- 💬 Ask me about **Java,Spring Framework, React**
 
 - 📫 How to reach me **adityamore.se@gmail.com**
 
-- ⚡ Fun fact **I think I am witty**
+- ⚡ Fun fact **I’m not clumsy, I’m just on my own secret mission to test gravity!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
