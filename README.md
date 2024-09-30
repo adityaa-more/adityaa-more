@@ -1,7 +1,7 @@
 [![MasterHead](https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif)](https://trace-ip.netlify.app/)
 <h1 align="center">Hi 👋, I'm Aditya More</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<div align="right" width="500">[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hacker%20Typer%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)</div>
+<div align="right" width="500">[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hacker%20Typer%20👨‍💻&width=500&height=250)](https://github.com/Akshay090/svg-banners)</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaa-more&label=Profile%20views&color=0e75b6&style=flat" alt="adityaa-more" /> </p>
 
