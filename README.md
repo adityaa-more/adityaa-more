@@ -22,6 +22,8 @@
 - 📄 View my QA Resume [here](https://drive.google.com/file/d/1VDGz8-VmC0AdityaQAResumeLink)
 - ⚡ Fun fact **I find bugs faster than caffeine kicks in!**
 
+- 🌐 My Portfolio [↗](https://adityaa-more.github.io/qa-portfolio/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adityaa-more" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-more-myprofile" height="30" width="40" /></a>
